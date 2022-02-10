@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"task": "Give dog a bath",
+		"complete": true,
+		"Favourite": true
+	},
+	{
+		"id": 2,
+		"task": "Do laundry",
+		"complete": true,
+		"Favourite": false
+	}
+]

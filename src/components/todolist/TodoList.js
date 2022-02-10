@@ -15,7 +15,7 @@ const TodoList = () => {
 						<Col className="pl-2 mb-4 ">
 							<TextInput />
 						</Col>
-						<Col xs={5} className="mt-4">
+						<Col xs={5} className="mt-4 ">
 							<Button>Add Task</Button>
 						</Col>
 					</Row>
